@@ -1,0 +1,32 @@
+challengeNames[0]="Call of Jalo I";
+challengeNames[1]="Call of Jalo II";
+
+challengeNames[2]="Handy Dandy I";
+challengeNames[3]="Handy Dandy II";
+challengeNames[4]="Handy Dandy III";
+
+challengeNames[5]="Rambo I";
+challengeNames[6]="Rambo II";
+challengeNames[7]="Rambo III";	
+		
+challengeNames[8]="Juggernaut I";
+challengeNames[9]="Juggernaut II";
+challengeNames[10]="Juggernaut III";
+		
+challengeNames[11]="Space Man I";
+challengeNames[12]="Space Man II";
+challengeNames[13]="Space Man III";
+challengeNames[14]="Space Man IV";
+		
+challengeNames[15]="Crossdresser I";
+challengeNames[16]="Crossdresser II";
+challengeNames[17]="Crossdresser III";
+		
+challengeNames[18]="Heads Up I";
+challengeNames[19]="Heads Up II";
+challengeNames[20]="Heads Up III";
+challengeNames[21]="Heads Up IV";
+		
+challengeNames[22]="F.U.N. I";
+challengeNames[23]="F.U.N. II";
+challengeNames[24]="F.U.N. III";

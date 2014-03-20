@@ -1,0 +1,9 @@
+Grunt-5
+Jackal-5
+
+Elites
+Minor-10
+Major-25
+Ultra-50
+SpecOps-100
+Zealot-500

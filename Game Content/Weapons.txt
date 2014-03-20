@@ -1,0 +1,14 @@
+wpnChoice[13]="Spartan Laser";
+wpnChoice[12]="Fuel Rod";
+wpnChoice[11]="Rockets";
+wpnChoice[10]="Sniper";
+wpnChoice[9]="Shotgun";
+wpnChoice[8]="Mauler";
+wpnChoice[7]="G. Launcher";
+wpnChoice[6]="Brute Shot";
+wpnChoice[5]="DMR";
+wpnChoice[4]="Needler";
+wpnChoice[3]="Carbine";
+wpnChoice[2]="Plasma Rifle";
+wpnChoice[1]="Magnum";
+wpnChoice[0]="Plasma Pistol";

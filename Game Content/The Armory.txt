@@ -1,0 +1,31 @@
+Call of Jalo
+Weapon Attachments (Lifetime Games Played)
+None(Default), Combat Knife(50), Laser Sight(300)
+
+Handy Dandy
+Faster Reload Times (Reloads in a game)
+1x(Default), 1.25x(10), 1.5x(50), 2x(100)
+
+Rambo
+Bandolier Clips (Lifetime Shots Fired)
+0(Default), 1(2500), 2(10000), 3(25000)
+
+Juggernaut
+Base Health (Consecutive Waves without Damage Taken)
+25(Default), 50(5 Waves), 100(3 Rounds), 300(3 Sets)
+
+Space Man
+Overshields (Shield Recharges in a game)
+None(Default), 1x(25), 2x(50), 3x(100), 4x(250)
+
+Crossdresser
+Sprites (100 Enemy Type Specific Kills)
+Spartan(Default), Grunt(Grunts), Jackal(Jackals), Elite(Elites)
+
+Heads Up
+HUD Colors (Lifetime Kills)
+Blue(Default), Green(100), Red(500), Black(1000), Gold(10000)
+
+F.U.N.
+Bonus Modes (Lifetime Exp)
+Normal(Default), Black and White(1000), Camo(10000), Funky(100000)

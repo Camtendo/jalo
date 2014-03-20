@@ -1,0 +1,97 @@
+[0]="I'm so 1337" Complete a set of 1337 on 1337-gendary difficulty;
+
+[1]="I Need a Weapon" Unlock all 13 weapons;
+
+[2]="BFG" Use the Spartan Laser in a game;
+
+[3]="Officer Spartan" Reach the rank of Lieutenant;
+
+[4]="Newbie" Complete a set of any gametype on Noob difficulty;
+
+[5]="Nay, it was Heresy!" Kill an Elite;
+
+[6]="Colt .45" Complete a set of any gametype on any difficulty using the Magnum;
+
+[7]="Orpheus" Complete a set of 7th Ring of Hell on 1337-gendary...Good Luck;
+
+[8]="Perfection" Complete 3 sets in a row without taking health damage on Standard;
+
+[9]="Pawnch!" Melee an opponent;
+
+[10]="Sharpshooter" Get a 10 kill spree using the Sniper;
+	
+[11]="Round...Over" Complete a round of any gametype on any difficulty;
+
+[12]="I am the Juggernaut" Complete a set of any gametype on Juggernaut difficulty;
+
+[13]="Splash Damage" Use heavy weapons in 20 games;
+
+[14]="Versatility" Complete a round on any difficulty using the Plasma Pistol;
+
+[15]="Killtacular" Earn 5000 lifetime kills;
+
+[16]="Practice Makes Perfect" Die 500 times;
+
+[17]="I Love Jalo" Start up Jalo!;
+
+[18]="King of the Hill" Reach the highest rank;
+
+[19]="Playa playa" Play 77 games to completion;
+
+[20]="C'mon, really?" Use the Spartan Laser to complete a set of any gametype on Noob difficulty;
+
+[21]="MLG" Complete a set of any gametype using the DMR on Juggernaut difficulty or higher;
+
+[22]="Shoop da Woop" Use the Spartan Laser in 20 games;
+
+[23]="Trigger Happy" Shoot 2500 lifetime shots spanning any weapon;
+
+[24]="Score Attack" Earn a highscore for any gametype;
+
+[25]="Shotty 2 Hotty" Use the shotgun in 20 games;
+
+[26]="Noob Tube" Use the G. Launcher in 20 games;
+
+[27]="Elitist" Use the Plasma Rifle in 20 games;
+
+[28]="Metal Slug" Use the Rockets in 20 games;
+
+[29]="Small Arms" Use the Mauler in 20 games;
+
+[30]="Hunter" Use the Fuel Rod in 20 games;
+
+[31]="They're too Strong!" Die with a 4x overshield active on Noob difficulty;
+
+[32]="Gruntpocalypse" Complete a set of Gruntastrophe on 1337-gendary difficulty;
+	
+[33]="No Grenades?!" Melee an enemy with no ammo in your gun and none in reserve;
+
+[34]="Rampage" Earn a 50 kill spree on Juggernaut difficulty or higher;
+
+[35]="Double Trouble" Earn a Double Kill;
+
+[36]="Are You Kidding?" Go on a 500 killing spree;
+
+[37]="Climb the Mountain" Earn a Killimanjaro;
+
+[38]="Boom! Headshot!" Earn a headshot;
+
+[39]="Grunt Soup" Kill 25 grunts in a game;
+
+[40]="Jackal-ing off" Kill 25 jackals in a game;
+
+[41]="2 1337 4 U" Kill 25 Elites in a game;
+
+[42]="LSD" Play a game with Funky on;
+
+[43]="The Skin You're In" Play a game in a different skin;
+
+[44]="I Can't See!" Play a game with Active Camo on;
+
+[45]="Eyes on the Prize" Apply a different colored HUD;
+
+[46]="Who is Camtendo?" View the Credits;
+
+[47]="Hardly a Challenge" Complete 3 waves without taking damage;
+
+[48]="Hyper Lethal" Earn 50000 lifetime kills;

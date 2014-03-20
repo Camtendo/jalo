@@ -1,0 +1,19 @@
+Standard
+-Enemies: All
+
+Infinity
+-Enemies: All
+-Infinite Ammo
+
+Gruntastrophe
+-Enemies: Grunts only
+
+1337
+-Enemies: All Elites
+
+7th Ring of Hell
+-Enemies: Zealot Elites only
+
+Level Up!
+-Enemies: Enemies Specified
+-Gain Levels in this Playlist
