@@ -1,7 +1,7 @@
 jalo
 ====
 
-A top-down shooter I made in high school.
+A top-down shooter I made in high school. Thee code is **wretched**, but don't judge me. I didn't know what I was doing.
 
 ###Dumped README from high school
 ```
